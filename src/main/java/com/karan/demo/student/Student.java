@@ -1,7 +1,6 @@
 package com.karan.demo.student;
 
 import jakarta.persistence.*;
-import org.hibernate.boot.jaxb.internal.stax.LocalSchemaLocator;
 
 import java.time.LocalDate;
 import java.time.Period;
